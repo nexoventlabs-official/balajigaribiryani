@@ -65,7 +65,7 @@ export default function Footer() {
             </li>
             <li className="flex-center" style={{ justifyContent: 'flex-start', gap: '10px' }}>
               <Mail size={16} color="var(--primary)" />
-              <a href="mailto:contact@balajigaribiryani.me">contact@balajigaribiryani.me</a>
+              <a href="mailto:contact@balajigaribiryani.shop">contact@balajigaribiryani.shop</a>
             </li>
             <li className="operating-hours">
               <strong>Operating Hours:</strong>

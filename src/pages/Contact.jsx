@@ -40,7 +40,7 @@ export default function Contact() {
       name: 'Pathavan Trading Company',
       address: 'NO5, PATHAVANTRADINGCOMPANY, UDAYARPALAYAM TK, 5TH CROSS, THIRUNAGAR, JAYANKONDAM, TIRUCHIRAPALLI',
       phone: '+91 98765 43210',
-      email: 'contact@balajigaribiryani.me',
+      email: 'contact@balajigaribiryani.shop',
     }
   ];
 

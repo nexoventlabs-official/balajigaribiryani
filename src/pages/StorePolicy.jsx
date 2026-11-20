@@ -71,7 +71,7 @@ export default function PrivacyPolicy() {
             <p className="contact-box">
               <strong>Balaji Gari Legal Cell</strong><br />
               NO5, PATHAVANTRADINGCOMPANY, UDAYARPALAYAM TK, 5TH CROSS, THIRUNAGAR, JAYANKONDAM, TIRUCHIRAPALLI<br />
-              Email: <a href="mailto:contact@balajigaribiryani.me">contact@balajigaribiryani.me</a>
+              Email: <a href="mailto:contact@balajigaribiryani.shop">contact@balajigaribiryani.shop</a>
             </p>
           </div>
         </div>
